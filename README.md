@@ -12,7 +12,7 @@ Of course, our ultimate goal is to be able to:
 
 Figma: https://www.figma.com/team_invite/redeem/S9crxALhkgkaycg8oHrr2q
 
-Trello: https://trello.com/b/ZiPOvzwl/gfr-calatori
+Trello: https://trello.com/b/ZiPOvzwl/franxx
 
 
 
