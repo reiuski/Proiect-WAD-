@@ -8,7 +8,7 @@ We would like to create a site that imitates the interface of "https://www.cfrca
 Of course, our ultimate goal is to be able to:
 
 *the profile will present documents such as ID, student card, profile pictures, etc.
-*Login system.
+*Login system for travelers.
 
 Figma: https://www.figma.com/team_invite/redeem/S9crxALhkgkaycg8oHrr2q
 
